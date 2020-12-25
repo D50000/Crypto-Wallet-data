@@ -11,8 +11,9 @@ example:
 - icon
 
 ## Crawler (pyhon3 scrapy)
-- Python 3.6+
-- ```pip install scrapy```
+- Require Python 3.6+
+- Setup ```pip install scrapy```
+![](https://github.com/D50000/Crypto-Wallet-data/blob/master/workflow.png)  
 
 ## Reference:
 https://coinmarketcap.com/  
