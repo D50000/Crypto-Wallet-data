@@ -13,7 +13,7 @@ example:
 ## Crawler (pyhon3 scrapy)
 - Require Python 3.6+
 - Setup ```pip install scrapy```
-![](https://github.com/D50000/Crypto-Wallet-data/blob/master/workflow.png)  
+![](https://github.com/D50000/Crypto-Wallet-data/blob/main/workflow.png)  
 
 ## Reference:
 https://coinmarketcap.com/  
