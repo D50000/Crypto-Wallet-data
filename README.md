@@ -12,10 +12,12 @@ example:
 
 ## Crawler (pyhon3 scrapy)
 - Require Python 3.6+
-- Setup ```pip install scrapy```  
+- Setup ```pip install scrapy```
+- Create project ```scrapy startproject cryptoData```
 ![](https://github.com/D50000/Crypto-Wallet-data/blob/main/workflow.png)  
 
 ## Reference:
 https://coinmarketcap.com/  
 https://github.com/scrapy/scrapy  
+https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/  
 White Paper and technical document will all from their own official website.
